@@ -1,6 +1,11 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vilkku11&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<img width="50%" align="center" src="https://streak-stats.demolab.com?user=Vilkku11&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vilkku11&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+
+  <!--
 **Vilkku11/Vilkku11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
