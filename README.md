@@ -11,7 +11,7 @@
 <a> <img align="center" src="https://streak-stats.demolab.com?user=Vilkku11&theme=dark&hide_border=true&card_height=190)](https://git.io/streak-stats" /> </a>
 <br>
 <br>
-<a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilkku11&show_icons=true&theme=dark&langs_count=8&hide_border=true&locale=en&layout=compact"/> </a>
+<a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilkku11&show_icons=true&theme=dark&langs_count=8&hide_border=true&locale=en&layout=compact&exclude_repo=survey,ICTFP"/> </a>
 </div>
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vilkku11&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
